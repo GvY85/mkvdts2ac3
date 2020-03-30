@@ -1,5 +1,5 @@
-`mkvdts2ac3` is a bash script which can be used for converting the DTS in
-Matroska (MKV) files to AC3. It provides you with a healthy set of options
+`mkvdts2ac3/mkvdts2eac3` is a bash script which can be used for converting the DTS in
+Matroska (MKV) files to AC3/EAC3. It provides you with a healthy set of options
 for controlling the resulting file.
 
 Installation
